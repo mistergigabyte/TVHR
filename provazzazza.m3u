@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:60,m3u8
+#EXTVLCOPT:network-caching=1000
+https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8
